@@ -5,7 +5,7 @@ AI Detective Notes Panel
 
 website - ai-detectivee.netlify.app
 
-demomo video - https://drive.google.com/file/d/1CPYp3n9kGE7vAXauv3ZJUQGv2YZFrSRg/view?usp=sharing
+demo video - https://drive.google.com/file/d/1CPYp3n9kGE7vAXauv3ZJUQGv2YZFrSRg/view?usp=sharing
 _________________________
 
 AI Detective Notes Panel is a lightweight, intelligent note-taking tool designed for investigators, researchers, and writers to record and organize case-related information clearly and efficiently.
